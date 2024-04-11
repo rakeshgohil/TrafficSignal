@@ -1,0 +1,67 @@
+.intersection {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: grey;
+  margin: 40px auto;
+}
+
+.road {
+  position: absolute;
+  background-color: black;
+}
+
+.horizontal {
+  top: 90px;
+  left: 0;
+  width: 100%;
+  height: 20px;
+}
+
+.vertical {
+  top: 0;
+  left: 90px;
+  width: 20px;
+  height: 100%;
+}
+
+.traffic-light {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+/* Example light colors */
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
+
+/* Positioning lights - adjust as needed */
+.northLight {
+  top: -25px;
+  left: -5px;
+}
+
+.southLight {
+  bottom: -25px;
+  left: -5px;
+}
+
+.eastLight {
+  right: -25px;
+  top: -5px;
+}
+
+.westLight {
+  left: -25px;
+  top: -5px;
+}

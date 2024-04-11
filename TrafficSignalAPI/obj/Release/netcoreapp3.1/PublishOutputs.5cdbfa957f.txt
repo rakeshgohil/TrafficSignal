@@ -1,0 +1,11 @@
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TrafficSignalAPI.exe
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TrafficSignalAPI.dll
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TrafficSignalAPI.deps.json
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TrafficSignalAPI.runtimeconfig.json
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TrafficSignalAPI.pdb
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\TrafficSignalAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll

@@ -1,0 +1,2 @@
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignal\trafficsignal.client\obj\Debug\trafficsignal.client.esproj.CoreCompileInputs.cache
+C:\Rakesh\DummyProject\TailorManagementGithub\TrafficSignalCode\TrafficSignal\trafficsignal.client\obj\Debug\trafficsignal.client.esproj.CoreCompileInputs.cache
